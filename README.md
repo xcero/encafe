@@ -87,4 +87,6 @@ Este proyecto guía a través de la exportación y personalización de datos de 
 La prueba del mapa se puede acceder 
 https://xcero.github.io/encafe
 
+Este trabajo se realizo con la guia detallada de https://github.com/taylorhixson
+
 
