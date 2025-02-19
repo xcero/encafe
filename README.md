@@ -3,8 +3,7 @@
 
 	
 
-##  [MINISTERIO DE AGRICULTURA Y GANADERÍA](https://xcero.github.io/encafe)##
-### DIRECCIÓN GENERAL DE DESARROLLO RURAL (DGDR)
+https://xcero.github.io/encafe
 ### Programa de Fortalecimiento de la Resiliencia Climática de los Bosques Cafetaleros El Salvador
 
 **Cesar Romero**  
